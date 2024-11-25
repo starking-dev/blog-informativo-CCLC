@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="C:\Users\Flia Velasquez Sucre\Desktop\blog esuema home.png"
+   inkscape:export-xdpi="302.38095"
+   inkscape:export-ydpi="302.38095"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="diseño pantallas esquemas.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="556.55238"
+     inkscape:cy="491.52285"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.6;fill:#3eccfd;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect815"
+       width="203.35118"
+       height="40.065475"
+       x="3.5151997"
+       y="3.6904759" />
+    <rect
+       style="opacity:0.6;fill:#070000;fill-opacity:1;stroke:none;stroke-width:3.5806191;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect819"
+       width="205.24109"
+       height="12.851191"
+       x="2.5702457"
+       y="48.291664" />
+    <rect
+       style="opacity:0.6;fill:#3ecbfd;fill-opacity:0.6;stroke:none;stroke-width:3.85136056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:stroke fill markers"
+       id="rect821"
+       width="64.519493"
+       height="186.48534"
+       x="142.74323"
+       y="67.058708" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.55328178px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51383203"
+       x="42.677906"
+       y="28.901678"
+       id="text837"><tspan
+         sodipodi:role="line"
+         id="tspan835"
+         x="42.677906"
+         y="28.901678"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.51383203">titulo del blog</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.07492352px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20187308;"
+       x="5.4892268"
+       y="57.187447"
+       id="text841"><tspan
+         sodipodi:role="line"
+         id="tspan839"
+         x="5.4892268"
+         y="57.187447"
+         style="stroke-width:0.20187308;fill:#ffffff;fill-opacity:1;">principal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.1230793px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22807698;"
+       x="130.22296"
+       y="58.49033"
+       id="text845"><tspan
+         sodipodi:role="line"
+         id="tspan843"
+         x="130.22296"
+         y="58.49033"
+         style="stroke-width:0.22807698;fill:#ffffff;fill-opacity:1;">ayuda </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.94846916px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19871172;"
+       x="81.187714"
+       y="57.366104"
+       id="text849"><tspan
+         sodipodi:role="line"
+         id="tspan847"
+         x="81.187714"
+         y="57.366104"
+         style="stroke-width:0.19871172;fill:#ffffff;fill-opacity:1;">contactos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.19145775px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20478643;"
+       x="53.537094"
+       y="55.51833"
+       id="text853"
+       transform="scale(0.96884411,1.0321578)"><tspan
+         sodipodi:role="line"
+         id="tspan851"
+         x="53.537094"
+         y="55.51833"
+         style="stroke-width:0.20478643;fill:#ffffff;fill-opacity:1;">crear</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.71050978px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19276273"
+       x="147.10008"
+       y="75.793327"
+       id="text857"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="147.10008"
+         y="75.793327"
+         style="stroke-width:0.19276273">que buscas</tspan></text>
+    <rect
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:stroke fill markers"
+       id="rect859"
+       width="41.388393"
+       height="6.4255953"
+       x="147.22173"
+       y="80.797615" />
+    <rect
+       style="opacity:0.6;fill:#0060ff;fill-opacity:1;stroke:none;stroke-width:3.9578197;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:stroke fill markers"
+       id="rect861"
+       width="17.638887"
+       height="7.5595236"
+       x="189.0511"
+       y="80.41964" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.77185488px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09429637"
+       x="190.63818"
+       y="85.328506"
+       id="text865"><tspan
+         sodipodi:role="line"
+         id="tspan863"
+         x="190.63818"
+         y="85.328506"
+         style="stroke-width:0.09429637">buscar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.52138615px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18803465"
+       x="147.80003"
+       y="100.32577"
+       id="text869"><tspan
+         sodipodi:role="line"
+         id="tspan867"
+         x="147.80003"
+         y="100.32577"
+         style="stroke-width:0.18803465">- entrada 1</tspan><tspan
+         sodipodi:role="line"
+         x="147.80003"
+         y="109.7275"
+         style="stroke-width:0.18803465"
+         id="tspan871">- entrada 2</tspan><tspan
+         sodipodi:role="line"
+         x="147.80003"
+         y="119.12923"
+         style="stroke-width:0.18803465"
+         id="tspan873">- entrada 3</tspan><tspan
+         sodipodi:role="line"
+         x="147.80003"
+         y="128.53098"
+         style="stroke-width:0.18803465"
+         id="tspan875">- entrada 4</tspan><tspan
+         sodipodi:role="line"
+         x="147.80003"
+         y="137.93271"
+         style="stroke-width:0.18803465"
+         id="tspan877">- .</tspan><tspan
+         sodipodi:role="line"
+         x="147.80003"
+         y="147.33444"
+         style="stroke-width:0.18803465"
+         id="tspan879">- .</tspan><tspan
+         sodipodi:role="line"
+         x="147.80003"
+         y="156.73618"
+         style="stroke-width:0.18803465"
+         id="tspan881">- .</tspan></text>
+    <g
+       id="g1005"
+       transform="translate(1.8040693,-7.6532363e-6)">
+      <rect
+         y="73.000671"
+         x="6.8819304"
+         height="10.680197"
+         width="127.42368"
+         id="rect823"
+         style="opacity:0.6;fill:#ffcc00;fill-opacity:1;stroke:#d32761;stroke-width:3.06500554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <g
+         transform="translate(6.2922119,-0.29208758)"
+         id="g995">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6767683px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09191921"
+           x="8.0929527"
+           y="77.703789"
+           id="text885"><tspan
+             sodipodi:role="line"
+             id="tspan883"
+             x="8.0929527"
+             y="77.703789"
+             style="stroke-width:0.09191921">titulo del del articulo</tspan><tspan
+             sodipodi:role="line"
+             x="8.0929527"
+             y="82.299751"
+             style="stroke-width:0.09191921"
+             id="tspan887">texto del articulo</tspan></text>
+        <rect
+           style="opacity:0.6;fill:#0060ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:stroke fill markers"
+           id="rect889"
+           width="18.331844"
+           height="5.2916665"
+           x="100.73066"
+           y="76.072914" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.80705833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12017646"
+           x="102.39612"
+           y="80.441589"
+           id="text893"><tspan
+             sodipodi:role="line"
+             id="tspan891"
+             x="102.39612"
+             y="80.441589"
+             style="stroke-width:0.12017646">visitar</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1023"
+       transform="translate(1.8040693,108.24415)">
+      <rect
+         style="opacity:0.6;fill:#ffcc00;fill-opacity:1;stroke:#d32761;stroke-width:3.06500554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1007"
+         width="127.42368"
+         height="10.680197"
+         x="6.8819304"
+         y="73.000671" />
+      <g
+         id="g1021"
+         transform="translate(6.2922119,-0.29208758)">
+        <text
+           id="text1013"
+           y="77.703789"
+           x="8.0929527"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6767683px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09191921"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.09191921"
+             y="77.703789"
+             x="8.0929527"
+             id="tspan1009"
+             sodipodi:role="line">titulo del del articulo</tspan><tspan
+             id="tspan1011"
+             style="stroke-width:0.09191921"
+             y="82.299751"
+             x="8.0929527"
+             sodipodi:role="line">texto del articulo</tspan></text>
+        <rect
+           y="76.072914"
+           x="100.73066"
+           height="5.2916665"
+           width="18.331844"
+           id="rect1015"
+           style="opacity:0.6;fill:#0060ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:stroke fill markers" />
+        <text
+           id="text1019"
+           y="80.441589"
+           x="102.39612"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.80705833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12017646"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.12017646"
+             y="80.441589"
+             x="102.39612"
+             id="tspan1017"
+             sodipodi:role="line">visitar</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1041"
+       transform="translate(1.8040693,86.59532)">
+      <rect
+         y="73.000671"
+         x="6.8819304"
+         height="10.680197"
+         width="127.42368"
+         id="rect1025"
+         style="opacity:0.6;fill:#ffcc00;fill-opacity:1;stroke:#d32761;stroke-width:3.06500554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <g
+         transform="translate(6.2922119,-0.29208758)"
+         id="g1039">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6767683px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09191921"
+           x="8.0929527"
+           y="77.703789"
+           id="text1031"><tspan
+             sodipodi:role="line"
+             id="tspan1027"
+             x="8.0929527"
+             y="77.703789"
+             style="stroke-width:0.09191921">titulo del del articulo</tspan><tspan
+             sodipodi:role="line"
+             x="8.0929527"
+             y="82.299751"
+             style="stroke-width:0.09191921"
+             id="tspan1029">texto del articulo</tspan></text>
+        <rect
+           style="opacity:0.6;fill:#0060ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:stroke fill markers"
+           id="rect1033"
+           width="18.331844"
+           height="5.2916665"
+           x="100.73066"
+           y="76.072914" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.80705833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12017646"
+           x="102.39612"
+           y="80.441589"
+           id="text1037"><tspan
+             sodipodi:role="line"
+             id="tspan1035"
+             x="102.39612"
+             y="80.441589"
+             style="stroke-width:0.12017646">visitar</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1059"
+       transform="translate(1.8040693,64.94648)">
+      <rect
+         style="opacity:0.6;fill:#ffcc00;fill-opacity:1;stroke:#d32761;stroke-width:3.06500554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1043"
+         width="127.42368"
+         height="10.680197"
+         x="6.8819304"
+         y="73.000671" />
+      <g
+         id="g1057"
+         transform="translate(6.2922119,-0.29208758)">
+        <text
+           id="text1049"
+           y="77.703789"
+           x="8.0929527"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6767683px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09191921"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.09191921"
+             y="77.703789"
+             x="8.0929527"
+             id="tspan1045"
+             sodipodi:role="line">titulo del del articulo</tspan><tspan
+             id="tspan1047"
+             style="stroke-width:0.09191921"
+             y="82.299751"
+             x="8.0929527"
+             sodipodi:role="line">texto del articulo</tspan></text>
+        <rect
+           y="76.072914"
+           x="100.73066"
+           height="5.2916665"
+           width="18.331844"
+           id="rect1051"
+           style="opacity:0.6;fill:#0060ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:stroke fill markers" />
+        <text
+           id="text1055"
+           y="80.441589"
+           x="102.39612"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.80705833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12017646"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.12017646"
+             y="80.441589"
+             x="102.39612"
+             id="tspan1053"
+             sodipodi:role="line">visitar</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1077"
+       transform="translate(1.8040693,43.297661)">
+      <rect
+         y="73.000671"
+         x="6.8819304"
+         height="10.680197"
+         width="127.42368"
+         id="rect1061"
+         style="opacity:0.6;fill:#ffcc00;fill-opacity:1;stroke:#d32761;stroke-width:3.06500554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <g
+         transform="translate(6.2922119,-0.29208758)"
+         id="g1075">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6767683px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09191921"
+           x="8.0929527"
+           y="77.703789"
+           id="text1067"><tspan
+             sodipodi:role="line"
+             id="tspan1063"
+             x="8.0929527"
+             y="77.703789"
+             style="stroke-width:0.09191921">titulo del del articulo</tspan><tspan
+             sodipodi:role="line"
+             x="8.0929527"
+             y="82.299751"
+             style="stroke-width:0.09191921"
+             id="tspan1065">texto del articulo</tspan></text>
+        <rect
+           style="opacity:0.6;fill:#0060ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:stroke fill markers"
+           id="rect1069"
+           width="18.331844"
+           height="5.2916665"
+           x="100.73066"
+           y="76.072914" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.80705833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12017646"
+           x="102.39612"
+           y="80.441589"
+           id="text1073"><tspan
+             sodipodi:role="line"
+             id="tspan1071"
+             x="102.39612"
+             y="80.441589"
+             style="stroke-width:0.12017646">visitar</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1095"
+       transform="translate(1.8040693,21.648832)">
+      <rect
+         style="opacity:0.6;fill:#ffcc00;fill-opacity:1;stroke:#d32761;stroke-width:3.06500554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1079"
+         width="127.42368"
+         height="10.680197"
+         x="6.8819304"
+         y="73.000671" />
+      <g
+         id="g1093"
+         transform="translate(6.2922119,-0.29208758)">
+        <text
+           id="text1085"
+           y="77.703789"
+           x="8.0929527"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6767683px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09191921"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.09191921"
+             y="77.703789"
+             x="8.0929527"
+             id="tspan1081"
+             sodipodi:role="line">titulo del del articulo</tspan><tspan
+             id="tspan1083"
+             style="stroke-width:0.09191921"
+             y="82.299751"
+             x="8.0929527"
+             sodipodi:role="line">texto del articulo</tspan></text>
+        <rect
+           y="76.072914"
+           x="100.73066"
+           height="5.2916665"
+           width="18.331844"
+           id="rect1087"
+           style="opacity:0.6;fill:#0060ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:stroke fill markers" />
+        <text
+           id="text1091"
+           y="80.441589"
+           x="102.39612"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.80705833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12017646"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.12017646"
+             y="80.441589"
+             x="102.39612"
+             id="tspan1089"
+             sodipodi:role="line">visitar</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:0.6;fill:#070000;fill-opacity:1;stroke:none;stroke-width:5.61119461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect819-8"
+       width="205.24109"
+       height="31.560057"
+       x="2.5702457"
+       y="259.57114" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="104.85202"
+       y="271.71832"
+       id="text1114"><tspan
+         sodipodi:role="line"
+         id="tspan1112"
+         x="106.71237"
+         y="271.71832"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">informacion de contacto </tspan><tspan
+         sodipodi:role="line"
+         x="104.85202"
+         y="284.94748"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1116">y redes sociales</tspan></text>
+  </g>
+</svg>
