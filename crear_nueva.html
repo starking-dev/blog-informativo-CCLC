@@ -1,198 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="assets/bootstrap-icons-1.11.3/font/bootstrap-icons.css">
-    <script type="text/javascript" src="js/jquery-3.7.1.min.js" ></script>
-    <script type="text/javascript" src="js/bootstrap.bundle.min.js" ></script>
-    <title>agregar documentos o archivos</title>
-</head>
-<body>
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="css/bootstrap.css">
+      <link rel="stylesheet" href="assets/bootstrap-icons-1.11.3/font/bootstrap-icons.css">
+      <script type="text/javascript" src="js/jquery-3.7.1.min.js" ></script>
+      <script type="text/javascript" src="js/bootstrap.bundle.min.js" ></script>
+      <title>agregar documentos o archivos</title>
+  </head>
+  <body>
     <div class="container">
-        <header>
-            <nav class="navbar navbar-expand-lg navbar-dark" style="margin-bottom: 5px; background-color: #5F6F65;">
-              <a class="navbar-brand" style="--hover-color: #C9DABF" href="index.html">
-                <i class="bi bi-house-fill" style="margin-right: 5px;"> inicio</i> 
-              </a>
-              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-              </button>              
-              <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
-                  <li class="nav-item active" >
-                    <a class="navbar-brand" style="--hover-color: #C9DABF" href="crear_nueva.html">
-                      <i class="bi bi-patch-plus-fill" style="margin-right: 5px;"> crear entrada</i> 
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="navbar-brand" style="--hover-color: #C9DABF" href="ver_entradas.html">
-                      <i class="bi bi-eye-fill" style="margin-right: 5px;"> todas las entradas</i>
-                    </a>
-                  </li>
-                  <!-- <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-                      Dropdown
-                    </a>
-                    <div class="dropdown-menu">
-                      <a class="dropdown-item" href="#">Action</a>
-                      <a class="dropdown-item" href="#">Another action</a>
-                      <div class="dropdown-divider"></div>
-                      <a class="dropdown-item" href="#">Something else here</a>
-                    </div>
-                  </li> -->
-                  <!--<li class="nav-item">
-                    <a class="nav-link disabled">Disabled</a>
-                  </li> -->
-                </ul>
-                  <!-- <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-                  </form> -->
-              </div>
-            </nav>
-    
-            <div class="jumbotron">
-              <h1 style="text-align: center;">Blog informativo consejo comunal las colinas</h1>
-            </div>
-          </header>
-
-          <h2 style="text-align: center; margin-bottom: 20px;">Crear una nueva entrada</h2>
-
-          <form style="margin-bottom: 45px;">
-            <h3 style="margin-bottom: 10px;">Datos del autor/redactor</h3>
-            <div class="form-group row">
-                <div class="col">
-                  <input type="text" class="form-control" placeholder="Nombres">
-                </div>
-                <div class="col">
-                  <input type="text" class="form-control" placeholder="Apellidos">
-                </div>
-            </div>
-            <div class="form-group row">
-                <div class="col">
-                    <input type="text" class="form-control" placeholder="Correo electronico">
-                </div>
-                <div class="col">
-                    <input type="text" class="form-control" placeholder="Edad">
-                </div>
-            </div>
-
-            <h3 style="margin-bottom: 10px;">Redaccion de la entrada</h3>
-
-            <div class="form-group">
-              <label for="exampleFormControlTextarea1">Redaccion del texto de la noticia</label>
-              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-            </div>
-            <div class="form-group">
-                <label for="exampleFormControlFile1">seleccionar una imagen relacionada a la noticia</label>
-                <input type="file" class="form-control-file" id="exampleFormControlFile1">
-            </div>
-
-            <button type="submit" class="btn btn-primary"><i class="bi bi-hand-thumbs-up-fill" style="margin-right: 5px;"> Enviar</i> </button>
-            <button type="submit" class="btn btn-warning"><i class="bi bi-hand-thumbs-down-fill" style="margin-right: 5px;"> Cancelar</i> </button>
-
-          </form>
-
-    <!-- <form id="form">
-        <input type="text" class="input">
-        <button type="submit">crear</button>
-    </form> -->
-    <script type="text/javascript">
-// Obtengo referencia al formulario HTML que tenga asignado id="form"
-const form = document.querySelector("#form");
-
-// Agrego una función al evento "submit" para que cuando se haga
-// click en el <button type="submit"> que contiene el formulario
-// se ejecute dicha función.
-form.addEventListener("submit", event => {
-  // Evito que el formulario me lleve a otra página.
-  event.preventDefault();
-  
-  // Selecciono todos los elementos que quiera incluir en el archivo.
-  // En este ejemplo, todos los elementos que tengan el atributo
-  // class="input" se van a incluir.
-  const inputs = [...document.querySelectorAll(".input")];
-  
-  // Defino una variable para separar en líneas.
-  const EOL = "\r\n";
-  
-  // Construyo el contenido del archivo de texto con un objeto tipo Blob
-  // (esto permite también contenido binario).
-  const textFile = new Blob(
-    /* 
-      Por cada elemento input, escribo: el nombre del campo
-      (obtenido de el atributo "name"), inserto un separador de línea,
-      el contenido del campo (que puede venir de "innerHTML" si es un
-      <textarea> o de "value" si es cualquier otro tipo de campo),
-      y dos separados de línea para dejar espacio al siguiente campo.
-    */
-    inputs.map(input => `${input.name}${EOL}${input.innerHTML || input.value}${EOL}${EOL}`), 
-    /*
-      Especifico que el archivo es de texto plano.
-    */
-    { type: "text/plain" }
-  );
- 
-  // Genero un elemento de tipo <a> para simular un descargable.
-  // Esta es la única forma de convertir el blob en una entidad que
-  // se pueda descargar.
-  const downloader = document.createElement("a");
-  
-  // Genero una URL privada para que el navegador pueda mostrar
-  // el contenido del archivo que generamos en el blob más arriba.
-  downloader.href = window.URL.createObjectURL(textFile);
-  
-  // Establezco el nombre del archivo con el que quiero que se descargue.
-  downloader.download = "formulario.txt";
-  
-  // Simulo un "click" sobre el elemento para disparar la acción de descarga.
-  // IMPORTANTE: es posible que el navegador pida un permiso sobre la página
-  // para "descargar múltiples archivos".
-  downloader.click();
-  
-  // Una vez que se haya iniciado la descarga, elimino el enlace privado
-  // y elimino el descargador para mantener la memoria de la página limpia.
-  window.requestAnimationFrame(() => {
-    window.URL.revokeObjectURL(textFile);
-    downloader.remove();
-  });
-});
-    </script>
-
-
-<footer style="margin-top: 10px;">
-    <div class="rounded-lg" style="background-color: #5F6F65; padding: 10px; color: white" >
-        <h4 style="text-align: center;">Universidad Politecnica Territorial Del Oeste De Sucre Clodosbaldo Rusian</h4>
-        <h4 style="text-align: center; margin-bottom: 5px;" >Proyecto Blog informativo Consejo Comunal Las Colinas</h4>
-      <div class="row">
-        <div class="col-lg-4">
-          <h4>Enlaces</h4>
-          <ul>
-            <li><a class="font-weight-bold" style="text-decoration: none; color: white; --hover-color: #C9DABF" href="#"> <i class="bi bi-arrow-up-right-circle-fill"> Inicio</i></a></li>
-            <li><a class="font-weight-bold" style="text-decoration: none; color: white; --hover-color: #C9DABF" href="#"> <i class="bi bi-arrow-up-right-circle-fill"> Acerca de</i></a></li>
-            <li><a class="font-weight-bold" style="text-decoration: none; color: white; --hover-color: #C9DABF" href="#"> <i class="bi bi-arrow-up-right-circle-fill"> Contacto</i></a></li>  
-
-          </ul>
+      <header>
+        <nav class="navbar navbar-expand-lg navbar-dark" style="margin-bottom: 5px; background-color: #5F6F65;">
+          <a class="navbar-brand" style="--hover-color: #C9DABF" href="index.html">
+            <i class="bi bi-house-fill" style="margin-right: 5px;"> inicio</i> 
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>              
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active" >
+                <a class="navbar-brand" style="--hover-color: #C9DABF" href="crear_nueva.html">
+                  <i class="bi bi-patch-plus-fill" style="margin-right: 5px;"> crear entrada</i> 
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="navbar-brand" style="--hover-color: #C9DABF" href="ver_entradas.html">
+                  <i class="bi bi-eye-fill" style="margin-right: 5px;"> todas las entradas</i>
+                </a>
+              </li>
+              <!-- <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                  Dropdown
+                </a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="#">Action</a>
+                  <a class="dropdown-item" href="#">Another action</a>
+                  <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                  </div>
+              </li> -->
+              <!--<li class="nav-item">
+                <a class="nav-link disabled">Disabled</a>
+              </li> -->
+            </ul>
+            <!-- <form class="form-inline my-2 my-lg-0">
+              <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form> -->
+          </div>
+        </nav>
+      
+        <div class="jumbotron">
+          <h1 style="text-align: center;">Blog informativo consejo comunal las colinas</h1>
         </div>
-        <div class="col-lg-4">
-          <h4>Integrantes</h4>
-          <ul>
-            <li>Jose Luis Zurita C.I: 12269936</li>
-            <li>Dinarlyn Carvajal C.I: 28401424</li>
-            <li>Luis Bastardo C.I: 32449491</li>
-          </ul>
+      </header>
+
+      <h2 style="text-align: center; margin-bottom: 20px;">Crear una nueva entrada</h2>
+
+      <form style="margin-bottom: 45px;">
+        <h3 style="margin-bottom: 10px;">Datos del autor/redactor</h3>
+        <div class="form-group row">
+          <div class="col">
+            <input type="text" class="form-control" placeholder="Nombres">
+          </div>
+          <div class="col">
+            <input type="text" class="form-control" placeholder="Apellidos">
+          </div>
         </div>
-        <div class="col-lg-4" style="vertical-align: inherit;">
-          <img class="rounded-lg" style="height: 185px; vertical-align: inherit;" src="assets/Logo UPTOS.png" alt="">
-          <!-- <h3>Derechos de autor</h3>
-          <p>(c) 2023 Mi Sitio Web. Todos los derechos reservados.</p> -->
+        <div class="form-group row">
+          <div class="col">
+            <input type="text" class="form-control" placeholder="Correo electronico">
+          </div>
+          <div class="col">
+            <input type="text" class="form-control" placeholder="Edad">
+          </div>
         </div>
-      </div>
+
+        <h3 style="margin-bottom: 10px;">Redaccion de la entrada</h3>
+
+        <div class="form-group">
+          <label for="exampleFormControlTextarea1">Redaccion del texto de la noticia</label>
+          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="exampleFormControlFile1">seleccionar una imagen relacionada a la noticia</label>
+            <input type="file" class="form-control-file" id="exampleFormControlFile1">
+        </div>
+        <button type="submit" class="btn btn-primary"><i class="bi bi-hand-thumbs-up-fill" style="margin-right: 5px;"> Enviar</i> </button>
+        <button type="submit" class="btn btn-warning"><i class="bi bi-hand-thumbs-down-fill" style="margin-right: 5px;"> Cancelar</i> </button>
+      </form>
+
+      <footer style="margin-top: 10px;">
+        <div class="rounded-lg" style="background-color: #5F6F65; padding: 10px; color: white" >
+          <h4 style="text-align: center;">Universidad Politecnica Territorial Del Oeste De Sucre Clodosbaldo Rusian</h4>
+          <h4 style="text-align: center; margin-bottom: 5px;" >Proyecto Blog informativo Consejo Comunal Las Colinas</h4>
+          <div class="row">
+            <div class="col-lg-4">
+              <h4>Enlaces</h4>
+              <ul>
+                <li><a class="font-weight-bold" style="text-decoration: none; color: white; --hover-color: #C9DABF" href="#"> <i class="bi bi-arrow-up-right-circle-fill"> Inicio</i></a></li>
+                <li><a class="font-weight-bold" style="text-decoration: none; color: white; --hover-color: #C9DABF" href="#"> <i class="bi bi-arrow-up-right-circle-fill"> Acerca de</i></a></li>
+                <li><a class="font-weight-bold" style="text-decoration: none; color: white; --hover-color: #C9DABF" href="#"> <i class="bi bi-arrow-up-right-circle-fill"> Contacto</i></a></li>  
+              </ul>
+            </div>
+            <div class="col-lg-4">
+              <h4>Integrantes</h4>
+              <ul>
+                <li>Jose Luis Zurita C.I: 12269936</li>
+                <li>Dinarlyn Carvajal C.I: 28401424</li>
+                <li>Luis Bastardo C.I: 32449491</li>
+              </ul>
+            </div>
+            <div class="col-lg-4" style="vertical-align: inherit;">
+              <img class="rounded-lg" style="height: 185px; vertical-align: inherit;" src="assets/Logo UPTOS.png" alt="">
+              <!-- <h3>Derechos de autor</h3>
+              <p>(c) 2023 Mi Sitio Web. Todos los derechos reservados.</p> -->
+            </div>
+          </div>
+        </div>
+      </footer>
     </div>
-  </footer>
-    </div>
-</body>
+  </body>
 </html>
